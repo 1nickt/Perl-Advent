@@ -2,9 +2,9 @@ Title: Perl in the Browser
 Topic: WebPerl
 Author: Mark Fowler <mark@twoshortplanks.com>
 
-"Busted Presents!", Tinsle Gumdrop complained. "I I<hate> re-writing code."
+"Busted Presents!", Tinsel Gumdrop complained. "I I<hate> re-writing code."
 
-It was Tinsle's job to port a whole bunch of backend validation logic code from
+It was Tinsel's job to port a whole bunch of backend validation logic code from
 their Perl based internet web app to the JavaScript front end so the validation
 could run client side too.
 
